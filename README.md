@@ -1,10 +1,17 @@
-- 👋 Hi, I’m Shahabaj Shaikh aka `Sonu`.
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning Python for Data Science / Data Engineer.
-- 💞️ I’m looking to collaborate on Python fullstack project. 
-- 📫 How to reach me ...
+# 👋 Hi, I'm Shahabaj!
 
-<!---
-SonuShaikh/SonuShaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Senior Data Engineer** passionate about building scalable data pipelines, cloud architectures, and automation frameworks.  
+Blending data engineering with Salesforce Marketing Cloud expertise to create impactful, data-driven solutions.  
+
+---
+
+### ⚙️ Tech Stack  
+Python · SQL · Airflow · AWS · BigQuery · Snowflake · APIs · Salesforce Marketing Cloud  
+
+---
+
+### 🌱 Exploring  
+Cloud ETL · Data Orchestration · AI in Marketing Automation  
+
+
+⭐ *Turning data into meaningful outcomes.*
